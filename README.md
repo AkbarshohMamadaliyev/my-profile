@@ -1,10 +1,10 @@
 ### <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Doniyorbek👨‍💻&center=false&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Akbarshoh👨‍💻&center=false&size=30">
   </a>
 </h1>
 
-### How to reach me: <a href="edoniyorbekdev@gmail.com">edoniyorbekdev@gmail.com</a>
+### How to reach me: <a href="akbarshokhmamadaliev@gmail.com">akbarshokhmamadaliev@gmail.com</a>
 
 <a href="https://www.instagram.com/doniyoreshmamatov1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 <a href="https://t.me/doniyoreshmamatov" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
